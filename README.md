@@ -36,18 +36,27 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 
 - **Ürün Durumu**: Ekran Görüntüleri:
 <img width="1293" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-backlog.png">
+<div style="display: flex; justify-content: center; align-items: center;">
+<img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC1.png">
+<img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC2.png">
+</div>
+<div style="display: flex; justify-content: center; align-items: center;">
+<img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC3.png">
+<img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC4.png">
+<img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC5.png">
+</div>
+
 
 
 
   **Sprint Review**:
-- Kullanıcı seviye bilgisi, kullanıcı uygulamaya kayıt yapmasının hemen ardından alınmasına karar verilmiştir.
+- Kullanıcıdan seviye bilgisi, kullanıcı uygulamaya kayıt yapmasının hemen ardından alınmasına karar verilmiştir.
 
 
 
   **Sprint Retrospective:**
 - Roller ile ilgili düzenleme yapılmış, product owner değişmiştir.
-- Tasarım grubu ile ayrı toplantı yapıldı. Modelleme konusunda görev dağılımı yapılmıştır.
-- Karakterin hareket animasyonları ve mekanikleri eklenmiştir.
-- Map üzerindeki platformlara mekanikler eklenmiştir.
+- Kullanıcı login olmadan da giriş yapabilsin diye misafir oturumu eklenmiştir.
+
 
 ---
