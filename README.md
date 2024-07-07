@@ -16,7 +16,7 @@ Learn with AI
 
 
 ## Uygulama Açıklaması
-Learn with AI ile, kullanıcı öğrenmek istediği dili yapay zekayla kendi seviyesinde sohbet edebililir, testler çözebilir, günlük kelime ezberi yapabilir,.
+Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil seviyesinde sohbet edebilir, testler çözebilir, günlük kelime ezberi yapabilir,.
 
 ## Özellikleri
 - Yapay zeka ile sohbet
