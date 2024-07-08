@@ -33,9 +33,10 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır.
 
+- Sprint Board: Ekran Görüntüsü:
+<img width="1293" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-backlog.png">
 
 - **Ürün Durumu**: Ekran Görüntüleri:
-<img width="1293" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-backlog.png">
 <div style="display: flex; justify-content: center; align-items: center;">
 <img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC1.png">
 <img width="300" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/uygulama-ekrang%C3%B6r%C3%BCnt%C3%BCs%C3%BC2.png">
@@ -47,11 +48,8 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 </div>
 
 
-
-
   **Sprint Review**:
 - Kullanıcıdan seviye bilgisi, kullanıcı uygulamaya kayıt yapmasının hemen ardından alınmasına karar verilmiştir.
-
 
 
   **Sprint Retrospective:**
