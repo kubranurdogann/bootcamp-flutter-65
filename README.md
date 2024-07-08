@@ -29,6 +29,12 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 
 ---
 # **SPRINT 1**
+**Sprint Notları**:
+- Proje yönetimi için Trello kullanılmıştır.
+- State yönetimi için Provider kullanılmıştır.
+- backend işlemleri için Firebase kullanılmıştır.
+- Kullanıcı kayıt sistemi için email login kullanılmıştır.
+
 - Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum**: Whatsapp üzerinden görüşmeler sağlanmıştır.
