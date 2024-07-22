@@ -64,3 +64,17 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 
 
 ---
+# **SPRINT 1**
+**Sprint Notları**:
+- kullanıcı karşılama ekranında seviye bilgisi alındı, değişken provider yardımıyla api sorgu kısmında kullanıldı.
+- Dictionary API ve Datamuse API entegre edildi ve kullanıcının ingilizce kelime araması için dctionary sayfası yapıldı.
+
+- **2. Sprint için bitirilmesi istenilen puan sayısı:** 10
+- Sprint hedefine ulaşılmıştır.
+- **Daily Scrum:** Whatsapp üzerinden görüşmeler sağlanmıştır.
+
+- **Ürün Durumu**: Ekran Görüntüleri:
+<div style="display: flex; justify-content: center; align-items: center;">
+<img width="250" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-22%20142909.png">
+<img width="250" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-22%20144523.png">
+</div>
