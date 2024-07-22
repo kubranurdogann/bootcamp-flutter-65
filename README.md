@@ -73,6 +73,10 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 - Sprint hedefine ulaşılmıştır.
 - **Daily Scrum:** Whatsapp üzerinden görüşmeler sağlanmıştır.
 
+
+- Sprint Board: Ekran Görüntüsü:
+<img width="1293" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/scrum%20board2.png">
+
 - **Ürün Durumu**: Ekran Görüntüleri:
 <div style="display: flex; justify-content: center; align-items: center;">
 <img width="250" height="450px" alt="backlog-screenshot" src="https://github.com/kubranurdogann/bootcamp-flutter-65/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-22%20142909.png">
