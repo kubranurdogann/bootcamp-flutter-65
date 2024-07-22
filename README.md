@@ -64,7 +64,7 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 
 
 ---
-# **SPRINT 1**
+# **SPRINT 2**
 **Sprint Notları**:
 - kullanıcı karşılama ekranında seviye bilgisi alındı, değişken provider yardımıyla api sorgu kısmında kullanıldı.
 - Dictionary API ve Datamuse API entegre edildi ve kullanıcının ingilizce kelime araması için dctionary sayfası yapıldı.
