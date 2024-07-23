@@ -68,9 +68,8 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 **Sprint Notları**:
 - kullanıcı karşılama ekranında seviye bilgisi alındı, değişken provider yardımıyla api sorgu kısmında kullanıldı.
 - Dictionary API ve Datamuse API entegre edildi ve kullanıcının ingilizce kelime araması için dctionary sayfası yapıldı.
-
-- **2. Sprint için bitirilmesi istenilen puan sayısı:** 10
-- Sprint hedefine ulaşılmıştır.
+- 
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci Sprint için hedeflenen puan 10'dur. Hedefe ulaşılmıştır.
 - **Daily Scrum:** Whatsapp üzerinden görüşmeler sağlanmıştır.
 
 
