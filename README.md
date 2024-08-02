@@ -89,3 +89,9 @@ Learn with AI ile kullanıcı yapay zeka kullanarak öğrenmek istediği dil sev
 **Sprint Retrospective:**
 - Sözlük kelime kaydetme butonu eklenmesine karar verildi.
 - Test Kısmı Tasarımı yapıldı.
+
+
+---
+# **SPRINT 3**
+
+-3. sprint bazı sebeplerden dolayı yapılmadı maalesef.
